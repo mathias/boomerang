@@ -1,5 +1,9 @@
 # Boomerang
 
+## **Boomerang is deprecated as of 2019** and not recommended for use
+
+Old README appears below:
+
 ## TL;DR
 
 Boomerang is a Javascript widget that Heroku Add-on Providers embed on their
